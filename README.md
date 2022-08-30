@@ -1,1 +1,2 @@
-# we-regret-to-inform-360iDev22
+# We Regret To Inform You... 
+my talk from 360iDev 2022
